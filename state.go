@@ -1,4 +1,4 @@
-package kurostm
+package kurostatemachine
 
 import "fmt"
 
